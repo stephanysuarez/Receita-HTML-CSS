@@ -1,0 +1,69 @@
+:root {
+    font-family: 'Exo 2', sans-serif;
+  }
+
+  body {
+    width: 883px;
+  }
+
+  img {
+      width: 883px;
+      height: 374px;
+  }
+
+h1 {
+    font-size: 89px;
+    font-weight: bold;
+    line-height: 79px;
+    width: 50%;
+    Color: #FFB300;
+  }
+    
+    p {
+    width: 883px;
+    font-size: 21px;
+    font-weight: semibold;
+    }
+
+span {
+    font-weight: bold;
+}
+
+hr {
+    width: 883px;
+    height: 5px;
+    margin-left: 0px;
+    margin-top: 34px;
+    margin-bottom: 34px;
+    background-color: rgb(138, 124, 124);
+}
+
+.author {
+    font-size: 21px;
+    font-weight: bold;
+    text-align: right;
+}
+
+h2{
+    font-size: 34px;
+    font-weight: bold;
+    color: #FFB300;
+}
+
+ul {
+    font-size: 21px;
+    font-weight: 600;
+    Line-height: 1.61; 
+}
+
+ol {
+    font-size: 21px;
+    font-weight: 600;
+    Line-height: 3.22;
+}
+
+[href="voltarparainicio"] {
+    font-size: 21px;
+    font-weight: bold;
+    color: #0037B3;
+}
